@@ -1,6 +1,6 @@
 function b(){
 }
-founction a(main){
+function a(exp){
 }
 function c(){
 }
