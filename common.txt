@@ -1,6 +1,6 @@
 function b(){
 }
-founction a(){
+founction a(main){
 }
 function c(){
 }
